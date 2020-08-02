@@ -1,75 +1,95 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Funk",
+      "link": "https://www.youtube.com/results?search_query=funk",
+      "cor": "#7159c1",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Playlist com os lançamentos de 2020",
+        "url": "https://www.youtube.com/watch?v=ebU5YgWOlTs&list=RDebU5YgWOlTs"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "MC Marks - Céu de Pipa - DJ Muka (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=fBf7XAC2K5U"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "MC Murilo MT e MC Madimbu - Fogo no Parquinho (Lançamento 2020) DJ TN Beat e DJ TS",
+          "url": "https://www.youtube.com/watch?v=wCsI8PfAO6c&list=RDebU5YgWOlTs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Mc Niack - Prepara - Loirinha do mal (DJ Silvério & Two Maloka)",
+          "url": "www.youtube.com/watch?v=7t7DvAKaRxk&list=RDebU5YgWOlTs"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "BEAT DECLARAÇÃO PRO BAR - MC Caja, MC Gibi, MC Bruna Alves e MC Torugo (Dj Xandy Vieira)",
+          "url": "www.youtube.com/watch?v=XDRWWyrUc3U&list=RDebU5YgWOlTs"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "RAVE DAS ROSAS - MC Dricka e MC Nick - ZK Beats e DJ Bruno Mpc",
+          "url": "www.youtube.com/watch?v=TXsZVTmqqv8&list=RDebU5YgWOlTs"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "RAVE NO ESCURINHO • DJ GBR • MC Topre - MC Mn - MC Caja",
+          "url": "www.youtube.com/watch?v=iB-5pjVdd5c&list=RDebU5YgWOlTs"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "NNA CONTA DA LOUCURA - VERSÃO TIK TOK (DJ Lucas Beat)",
+          "url": "https://www.youtube.com/watch?v=yKnfChHgyWo"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "MC Niack - Colocada forte - Eu só quero te Papar (DJ Biel Beats e DJ Felipe Único)",
+          "url": "https://www.youtube.com/watch?v=o2KpYdOIvJ8"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "RAP",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Playlist com os lançamentos de 2020",
+        "url": "https://www.youtube.com/playlist?list=PLfU8kqCtG9UblNax5POeuiEs3g6Zgmny9"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "1. Djonga - O Cara de Óculos pt. Bia Nogueira",
+          "url": "https://www.youtube.com/watch?v=doRcD6DlgsM&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "2. Djonga - Não Sei Rezar",
+          "url": "https://www.youtube.com/watch?v=fw6mvxNdhKM&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=2"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "3. Djonga - Oto Patamá",
+          "url": "https://www.youtube.com/watch?v=OoIbuc6bJIk&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=3"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "4. Djonga - Todo Errado",
+          "url": "https://www.youtube.com/watch?v=A-JsWeftLio&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=4"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "5. Djonga - Gelo pt. NGC Borges & FBC",
+          "url": "https://www.youtube.com/watch?v=nWlRdVzT2Vc&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=5"
+        },
+        {
+          "titulo": "6. Djonga - Hoje Não",
+          "url": "https://www.youtube.com/watch?v=qxXr2CYjHl8&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=6"
+        },
+        {
+          "titulo": "7. Djonga - Mania pt. MC Don Juan",
+          "url": "https://www.youtube.com/watch?v=XXMLu9fOMos&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=7"
+        },
+        {
+          "titulo": "8. Djonga - Procuro Alguém",
+          "url": "https://www.youtube.com/watch?v=JaS17E2QVq0&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=8"
+        },
+        {
+          "titulo": "9. Deus Dará pt. Cristal",
+          "url": "https://www.youtube.com/watch?v=oo2_dQqZThA&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=9"
+        },
+        {
+          "titulo": "10. Djonga - Amr Sinto Falta da Nssa Ksa",
+          "url": "https://www.youtube.com/watch?v=Yw7Gb2xuJPs&list=PLEE-L5Au_Xzdqbmn9zyIWh0e3NBEE-FkH&index=10"
         }
       ]
     },
