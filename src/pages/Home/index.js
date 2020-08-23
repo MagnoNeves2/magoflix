@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Mais uma noite sem dormir Vou lá pra rua espairecer Pensar na vida refletir Meu Deus o que posso fazer Abro a janela e não vejo o sol brilhar Abro a carteira tem nada pra contar Mó desespero dois filho pra criar Ando esquecido do lado de cá"}
+        videoDescription={"Música: Cão de Raça Artista: Yang Fex | @yangfex Produção Musical: Modest James | @modestjamez Co-produção: Fexster"}
       />
 
       <Carousel
